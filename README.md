@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Olá, eu sou Jonata Raposo
 
-<!--
-**jonata-ti/jonata-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Infrastructure Analyst
+☁️ Cloud & Virtualization
+🐧 Linux
+🌐 Networking
+🔥 pfSense
+📊 Zabbix
+🐳 Docker
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────
+
+🛠 Tecnologias
+
+Windows
+Linux
+Docker
+Git
+JavaScript
+PHP
+MySQL
+Grafana
+Zabbix
+Mikrotik
+pfSense
+
+────────────────────────
+
+📌 Projetos
+
+📊 G-DE-GESTAO V2
+
+📈 G-DE-GESTAO V1
+
+🌐 Jonata Tech
+
+────────────────────────
+
+📫 Contato
+
+🌐 jonatatech.netlify.app
+
+📧 jonatamesquita17@gmail.com
